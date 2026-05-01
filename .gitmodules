@@ -1,0 +1,6 @@
+[submodule "external/booster_robotics_sdk"]
+	path = external/booster_robotics_sdk
+	url = https://github.com/BoosterRobotics/booster_robotics_sdk.git
+[submodule "external/booster_robotics_sdk_ros2"]
+	path = external/booster_robotics_sdk_ros2
+	url = https://github.com/BoosterRobotics/booster_robotics_sdk_ros2.git
